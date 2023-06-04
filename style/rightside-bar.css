@@ -4,6 +4,7 @@
     bottom: 0px;
     right: 0px;
     width: 330px; 
+    overflow: auto;
 }
 
 .align-container {

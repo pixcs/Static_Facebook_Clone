@@ -5,9 +5,9 @@
     bottom: 0;
     width: 344px; 
     background-color: rgb(25, 26, 27);
-   
-    
+    overflow: auto;    
 }
+
 
 .my-account-profile{
     display: flex;
